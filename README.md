@@ -1,8 +1,10 @@
-### Hi there 👋, my name is Jeremy
-#### I am fullstack dev
-<br/>
+<h1> Hi there 👋, my name is Jeremy </h1>
+<h2> I am fullstack dev </h2>
 <!-- Quick description -->
-
+<p>- 🔭  I’m currently working on my portfolio and an awesome app with my buddies</p>
+<p>- 🌱  I’m currently learning React</p>
+<p>- 🐜  I’m looking to collaborate on any project</p>
+</br>
 <h3>Languages and Tools:</h3>
 <div align="center">
 <!-- back end icon  -->
@@ -22,9 +24,7 @@
 </br>
 
 <div>
-- 🔭  I’m currently working on my portfolio and an awesome app with my buddies
-- 🌱  I’m currently learning React
-- 🐜  I’m looking to collaborate on any project
+
 </div>
 
 <br/>
