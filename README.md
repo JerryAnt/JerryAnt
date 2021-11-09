@@ -43,8 +43,8 @@
 <p>You like my profile, you got a comment or even wanna get in touch?</p> 
 <p>Reach out to me I don't bite and I usually reply quickly 😁 </p>
 <div align="center">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' href="https://github.com/JerryAnt" color="#ffffff">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' href="https://www.linkedin.com/in/https://www.linkedin.com/in/jeremy-antoine-cool-dev-for-hire" color="#ffffff">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color="#ffffff">[(https://github.com/JerryAnt")]
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'  color="#ffffff">[(https://www.linkedin.com/in/https://www.linkedin.com/in/jeremy-antoine-cool-dev-for-hire)]
 </div>
 <br/>
 
