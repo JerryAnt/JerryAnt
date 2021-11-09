@@ -2,9 +2,13 @@
 <h1> Hi there 👋, my name is Jeremy </h1>
 <h2> I am fullstack dev </h2>
 <!-- Quick description -->
-<p>- 🔭  I’m currently working on my portfolio and an awesome app with my buddies</p>
+<p>- 🔭  I’m currently working on my portfolio and on an awesome app with my buddies</p>
 <p>- 🌱  I’m currently learning React</p>
 <p>- 🐜  I’m looking to collaborate on any project</p>
+<p>-   and when I'm not in front my computer, I run                 🏁 🏃🏼‍♂️ ...  ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ </p>
+<p align="right"> ⇡ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ 🏡        or play warzone 🚁 </p>
+
+
 </br>
 
 <!-- skills section -->
