@@ -32,8 +32,8 @@
 
   <h3>These are the projects I've beem working on with my amazing compadres:  </h3>
 <div align="center"> 
-  <img src="https://user-images.githubusercontent.com/80538704/140975068-9215ea48-e70d-4e37-a57e-56725dedbb0d.png" height="40" href="https://rentamon.herokuapp.com/" alt ="rentAMon">
-  <img src="https://user-images.githubusercontent.com/80538704/140977171-a995dec0-fb2b-4f93-b2f1-19deceef06e3.png" height="40" href="http://www.cleankuts.com/" alt ="Clean Kut's">
+  [<img src="https://user-images.githubusercontent.com/80538704/140975068-9215ea48-e70d-4e37-a57e-56725dedbb0d.png" height="40"  alt ="rentAMon">](https://rentamon.herokuapp.com/)
+  [<img src="https://user-images.githubusercontent.com/80538704/140977171-a995dec0-fb2b-4f93-b2f1-19deceef06e3.png" height="40"  alt ="Clean Kut's">](http://www.cleankuts.com)
 </div>  
 
   <!-- contact me section -->
@@ -43,8 +43,8 @@
 <p>You like my profile, you got a comment or even wanna get in touch?</p> 
 <p>Reach out to me I don't bite and I usually reply quickly 😁 </p>
 <div align="center">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color="#ffffff">[(https://github.com/JerryAnt")]
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'  color="#ffffff">[(https://www.linkedin.com/in/https://www.linkedin.com/in/jeremy-antoine-cool-dev-for-hire)]
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color="#ffffff">](https://github.com/JerryAnt")
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'  color="#ffffff">](https://www.linkedin.com/in/https://www.linkedin.com/in/jeremy-antoine-cool-dev-for-hire)
 </div>
 <br/>
 
