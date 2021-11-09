@@ -34,8 +34,8 @@
 <!-- linkedin and github icons and links  -->
 </p>
 <p align="center">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' href="https://github.com/JerryAnt">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' href="https://www.linkedin.com/in/https://www.linkedin.com/in/jeremy-antoine-cool-dev-for-hire">
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' href="https://github.com/JerryAnt" color="#ffffff">
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' href="https://www.linkedin.com/in/https://www.linkedin.com/in/jeremy-antoine-cool-dev-for-hire" color="#ffffff">
 </p>
 <br/>
 <!-- My stats -->
