@@ -1,9 +1,8 @@
 ### Hi there 👋, my name is Jeremy
 #### I am fullstack dev
 
-I am currently learning React
 
-Skills: RAILS / JS / HTML / CSS
+Skills: RAILS / JS / HTML / CSS / BOOTSTRAP
 
 - 🔭 I’m currently working on my portfolio and an awesome app with my buddies 
 - 🌱 I’m currently learning React 
