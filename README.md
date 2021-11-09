@@ -5,7 +5,7 @@
 <p>- 🔭  I’m currently working on my portfolio and on an awesome app with my buddies</p>
 <p>- 🌱  I’m currently learning React</p>
 <p>- 🐜  I’m looking to collaborate on any project</p>
-<p>-   and when I'm not in front of my computer, I run                 🏁 🏃🏼‍♂️ ...  ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ </p>
+<p>-   and when I'm not in front of my computer, I run                 🏁 🏃🏼‍♂️ ...  ⇠ ⇠ ⇠ ⇠ ⇠ ⇠  </p>
 <p align="right"> ⇡ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ 🏡        or play warzone 🚁 </p>
 
 
