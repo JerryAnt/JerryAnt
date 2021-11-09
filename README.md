@@ -28,7 +28,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/></blank></blank>
   </p>
 </div>
-<h3 align="center">but I also happen to use these fellas when needed</h3>
+<h3 align="center">but I also happen to use these fellas when needed:</h3>
 <div align="center">
 
   <p>
@@ -43,9 +43,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" height="40"/>
 <!-- heroku     -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" height="40"/>
-
-<!-- cloudinary     -->
-    <img src="    " alt="cloudinary" height="40"/>
     
  
     
