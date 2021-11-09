@@ -30,7 +30,7 @@
 
 <br/>
 
-  <h3>These are the projects I've beem working on with my amazing compadres so far:  </h3>
+  <h3>These are the projects I've beem working on with my amazing compadres:  </h3>
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/80538704/140975068-9215ea48-e70d-4e37-a57e-56725dedbb0d.png" height="40" href="https://rentamon.herokuapp.com/" alt ="rentAMon">
   <img src="https://user-images.githubusercontent.com/80538704/140977171-a995dec0-fb2b-4f93-b2f1-19deceef06e3.png" height="40" href="http://www.cleankuts.com/" alt ="Clean Kut's">
