@@ -1,4 +1,4 @@
-
+<!-- about me section -->
 <h1> Hi there 👋, my name is Jeremy </h1>
 <h2> I am fullstack dev </h2>
 <!-- Quick description -->
@@ -6,6 +6,8 @@
 <p>- 🌱  I’m currently learning React</p>
 <p>- 🐜  I’m looking to collaborate on any project</p>
 </br>
+
+<!-- skills section -->
 <h3>Languages and Tools:</h3>
 <div align="center">
 <!-- back end icon  -->
@@ -29,10 +31,19 @@
 </div>
 
 <br/>
-
+<!-- animated gif -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height='140'>
-<!-- linkedin and github icons and links  -->
+
+
+  <h3>My projects so far with my amazing compadres:  </h3>
+<div align="center"> 
+  <img src="https://user-images.githubusercontent.com/80538704/140975068-9215ea48-e70d-4e37-a57e-56725dedbb0d.png" height="40" href="https://rentamon.herokuapp.com/" alt ="rentAMon">
+  <img src="https://user-images.githubusercontent.com/80538704/140977171-a995dec0-fb2b-4f93-b2f1-19deceef06e3.png" height="40" href="http://www.cleankuts.com/" alt ="Clean Kut's">
+</div>  
+
+  <!-- contact me section -->
+  <!-- linkedin and github icons and links  -->
 </p>
 <p align="center">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' href="https://github.com/JerryAnt" color="#ffffff">
