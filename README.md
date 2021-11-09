@@ -1,4 +1,4 @@
-<body background-color="white">
+
 <h1> Hi there 👋, my name is Jeremy </h1>
 <h2> I am fullstack dev </h2>
 <!-- Quick description -->
@@ -45,4 +45,4 @@
 <!-- My views -->
 
 <br/>
-</body>
+
