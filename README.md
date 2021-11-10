@@ -58,10 +58,8 @@
 
   <h3 align="center" >These are the projects I've been working on with my amazing compadres:  </h3>
 <div align="center"> 
-  <a href="https://rentamon.herokuapp.com/" target="blank"><img src="https://user-images.
-    
-    
-    hubusercontent.com/80538704/140975068-9215ea48-e70d-4e37-a57e-56725dedbb0d.png" height="40"  alt ="rentAMon"></a>
+  <a href="https://rentamon.herokuapp.com/" target="blank">
+    <img src="https://user-images.githubusercontent.com/80538704/141033691-36765af0-4057-4d08-bcf6-9817fdbbbb5c.png" height="40"  alt ="rentAMon"></a>
   <a href="http://www.cleankuts.com" target="blank"><img src="https://user-images.githubusercontent.com/80538704/140977171-a995dec0-fb2b-4f93-b2f1-19deceef06e3.png" height="40"  alt ="Clean Kut's"></a>
 </div>  
 
