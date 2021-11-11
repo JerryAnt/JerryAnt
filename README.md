@@ -1,6 +1,6 @@
 <!-- about me section -->
 <h1> Hi there 👋, my name is Jeremy </h1>
-<h2> I am fullstack dev </h2>
+<h2> I am a fullstack dev </h2>
 <!-- Quick description -->
 <p>- 🔭  I’m currently working on my portfolio and on an awesome app with my buddies</p>
 <p>- 🌱  I’m currently learning React</p>
