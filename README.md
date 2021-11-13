@@ -7,10 +7,11 @@
 <!-- Quick description -->
 <p>- 🔭  I’m currently working on my portfolio and on an awesome app with my buddies</p>
 <p>- 🌱  I’m currently learning React</p>
-<p>- 🌱  and I’m currently (redundant much? :D) practicing my JS and CSS skills</p>
+<p>- 🌱  and I’m currently (redundant much? :D) practicing my JS and CSS skills on this <img src="https://user-images.githubusercontent.com/80538704/141607314-89efb11b-5495-4fd7-9618-49724bf3f674.png" alt="Luffy" height="100"/><img src="https://user-images.githubusercontent.com/80538704/141607102-4d11636b-7de1-4281-9a68-7f846a4588ae.gif" alt="Luffy gear4 animation" height="100"/> <img src="https://user-images.githubusercontent.com/80538704/141607444-fc65e063-b767-46a3-b249-15c091ae6017.png" alt="Monkey D." height="100"/> </p>
 <p>- 🐜  I’m looking to collaborate on any project</p>
 <p>-   and when I'm not in front of my computer, I run                 🏁 🏃🏼‍♂️ ...  ⇠ ⇠ ⇠ ⇠ ⇠ ⇠  </p>
 <p align="right"> ⇡ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ 🏡        or play warzone 🚁 </p>
+
 
 
 </br>
