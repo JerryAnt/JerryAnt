@@ -73,7 +73,7 @@
 <p align="center">You like my profile, you got a comment or even wanna get in touch?</p> 
 <p align="center">Reach out to me I don't bite and I usually reply quickly 😁 </p>
 <div align="center">
-  <a href="https://github.com/JerryAnt" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color="#ffffff"></a><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jeremy-antoine-cool-dev-for-hire" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' ></a>
+  <a href="https://github.com/JerryAnt" target="blank"><img align="center" src='https://user-images.githubusercontent.com/80538704/141606159-140bcfd3-919c-467b-ae74-24e249760c42.png' alt='github' height='40' color="#ffffff"></a><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jeremy-antoine-cool-dev-for-hire" target="blank"><img align="center" src='https://user-images.githubusercontent.com/80538704/141606177-28eb69d0-675f-4b1c-a7f8-d20bda6232a6.png' alt='linkedin' height='40' ></a>
 
 </div>
 <br/>
