@@ -1,3 +1,6 @@
+<!-- My views -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jerryant&label=Profile%20views&color=0e75b6&style=flat" alt="jerryant" /> </p> 
+
 <!-- about me section -->
 <h1> Hi there 👋, my name is Jeremy </h1>
 <h2> I am a fullstack dev </h2>
@@ -75,6 +78,10 @@
 </div>
 <br/>
 
+<!--  contributions streak longest streak -->
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jerryant&" alt="jerryant" /> </p>
+<br/>
+<br/>
 <!-- animated gif -->
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height='340' >
@@ -82,18 +89,8 @@
 <!-- My stats -->
 
 <br/>
-<!-- My views -->
 
-<br/>
+<!-- most used languages -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerryant&show_icons=true&locale=en&layout=compact" alt="jerryant" /></p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryant&label=Profile%20views&color=0e75b6&style=flat" alt="jerryant" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerryant&show_icons=true&locale=en&layout=compact" alt="jerryant" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jerryant&show_icons=true&locale=en" alt="jerryant" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerryant&" alt="jerryant" /></p>
+<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jerryant&show_icons=true&locale=en" alt="jerryant" /></p> -->
