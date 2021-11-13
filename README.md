@@ -79,12 +79,12 @@
 <br/>
 
 <!--  contributions streak longest streak -->
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jerryant&" alt="jerryant" /> </p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jerryant&" alt="jerryant" width='70%'/> </p>
 <br/>
 <br/>
 <!-- animated gif -->
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height='340' >
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height='340' width='70%' >
 </p>
 <!-- My stats -->
 
