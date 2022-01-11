@@ -6,7 +6,7 @@
 <h2> I am a fullstack dev </h2>
 <!-- Quick description -->
 
-<p>- 🐜  I’m like helping on projects and creating memes to make my buddies laugh on slack</p>
+<p>- 🐜  I like helping on projects and creating memes to make my buddies laugh on slack</p>
 <p>-   and when I'm not in front of my computers, I run                 🏁 🏃🏼‍♂️ ...  ⇠ ⇠ ⇠ ⇠ ⇠ ⇠  </p>
 <p align="right"> ⇡ ⇠ ⇠ ⇠ ⇠ ⇠ ⇠ 🏡        or play warzone 🚁 </p>
 
