@@ -79,10 +79,10 @@
 
 <!--  contributions streak longest streak -->
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jerryant&" alt="jerryant" width='70%'/> </p>
-<br/>
+<!-- <br/>
 
 <strong> I may seem inactive on github and you are perfectly right. But don't worry I haven't been kidnapped: I am polishing my skills on react through codeAcademy (https://www.codecademy.com/) and frontendmasters classes (https://frontendmasters.com/). </strong>
- 
+  -->
 <br/>
 <!-- animated gif -->
 <p align="center"> 
