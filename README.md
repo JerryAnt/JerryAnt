@@ -28,9 +28,9 @@
     <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="40" /></blank></blank>
 <!-- middle -->
 <!--  git  -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/></blank> </blank>
+<!--   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/></blank> </blank> -->
 <!-- sublime -->
-    <img src="https://user-images.githubusercontent.com/80538704/141020072-23c9fea3-af87-4406-8584-26ff9618a3f3.png" alt="sublime" height="40"/>
+<!--     <img src="https://user-images.githubusercontent.com/80538704/141020072-23c9fea3-af87-4406-8584-26ff9618a3f3.png" alt="sublime" height="40"/> -->
 
 <!-- front end icon  -->
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="40"/></blank></blank>
@@ -38,20 +38,20 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/></blank></blank>
   </p>
 </div>
-<h3 align="center">but I also happen to use these fellas when needed:</h3>
-<div align="center">
+<!-- <h3 align="center">but I also happen to use these fellas when needed:</h3> -->
+<!-- <div align="center"> -->
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"/>
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"/> -->
 <!-- sass -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  alt="sass" height="40"/>
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  alt="sass" height="40"/> -->
 <!-- wordpress -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" height="40"/>
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" height="40"/> -->
 <!-- photoshop     -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" height="40"/>
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" height="40"/> -->
 <!-- react -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" height="40"/>
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" height="40"/> -->
 <!-- heroku     -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" height="40"/>
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" height="40"/> -->
     
  
     
@@ -60,7 +60,7 @@
     
     
     
-  </p>
+<!--   </p>
 </div>
 
 <br/>
@@ -70,11 +70,11 @@
   <a href="https://rentamon.herokuapp.com/" target="blank">
     <img src="https://user-images.githubusercontent.com/80538704/141033691-36765af0-4057-4d08-bcf6-9817fdbbbb5c.png" height="40"  alt ="rentAMon"></a>
   <a href="http://www.cleankuts.com" target="blank"><img src="https://user-images.githubusercontent.com/80538704/140977171-a995dec0-fb2b-4f93-b2f1-19deceef06e3.png" height="40"  alt ="Clean Kut's"></a>
-</div>  
+</div>   -->
 
   <!-- contact me section -->
   <!-- linkedin and github icons and links  -->
-</p>
+<!-- </p> -->
 
 <p align="center">You like my profile, you got a comment or even wanna get in touch?</p> 
 <p align="center">Reach out to me I don't bite and I usually reply quickly 😁 </p>
