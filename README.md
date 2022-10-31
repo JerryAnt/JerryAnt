@@ -25,7 +25,7 @@
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" height="40"/>
 <!-- rails -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="rails" height="40"/></blank></blank>
-    <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="40" /></blank></blank>
+<!--     <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" height="40" /></blank></blank> -->
 <!-- middle -->
 <!--  git  -->
 <!--   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/></blank> </blank> -->
